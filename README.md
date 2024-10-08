@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I am a student from Trondheim.
+I currently study marine technology. It is very interesting. 
+I'm working on a new python project right now!
 <!--
 **ingejkr/ingejkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
